@@ -13,8 +13,6 @@
  * @link      http://packagist.org/packages/sendgrid/sendgrid
  */
 
-namespace SendGrid;
-
 /**
  * This class is the interface to the SendGrid Web API
  *
